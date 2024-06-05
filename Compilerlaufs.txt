@@ -1,0 +1,14 @@
+13:12:40 **** Incremental Build of configuration Debug for project Supermarktkasse ****
+make all 
+Building file: ../src/Supermarktkasse.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Supermarktkasse.d" -MT"src/Supermarktkasse.d" -o "src/Supermarktkasse.o" "../src/Supermarktkasse.c"
+Finished building: ../src/Supermarktkasse.c
+ 
+Building target: Supermarktkasse
+Invoking: GCC C Linker
+gcc  -o "Supermarktkasse"  ./src/Supermarktkasse.o   
+Finished building target: Supermarktkasse
+ 
+
+13:12:40 Build Finished (took 200ms)

@@ -1,0 +1,302 @@
+ANR MHD Bezeichnung VPE Preis/VPE :
+
+
+100000 0 Quarkblatz 1Stk 4.99
+200000 21.04.2021  Apfeldicksaft 500ml 5.59
+201000 10.10.2018 Butter 1Pkt 1.99
+201000 20.10.2018 Butter 1Pkt 2.79
+202000 23.12.2018 H-Milch 3.5% 1l 0.99
+300000 0 Plattpfirsiche 100g 0.65
+300100 0 Bananen 1kg 2.39
+400000 01.04.2019 Espresso 500g 13.99
+401000 31.03.2019 Schokolade 200g 3.99
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ +
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer  : 100000
+
+
+geben Sie bitte MHD : 0
+
+
+geben Sie bitte die Anzahl: 3
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ +
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer  : 401000
+
+
+geben Sie bitte MHD : 31.03.2019
+
+
+geben Sie bitte die Anzahl: 4
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ +
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer : 100000
+
+
+geben Sie bitte MHD : 0
+
+
+geben Sie bitte die Anzahl: 6
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ +
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer : 666666
+
+
+geben Sie bitte MHD : 0
+
+
+geben Sie bitte die Anzahl: 2
+
+ Bitte eine Richtige Ware eingeben 
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ -
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer : 100000
+
+
+geben Sie bitte MHD : 0
+
+
+geben Sie bitte die Anzahl: 1
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ s
+____________________________________________________________________________________________________________________
+
+                                Der aktuelle Rechnungsstand : RECHNUNG  n° 1                                                          
+____________________________________________________________________________________________________________________
+
+                                           2020-12-20  13:17:25
+____________________________________________________________________________________________________________________
+    Anzahl         Bezeichnung                 ANR                 MHD                 VPE    Price
+         8          Quarkblatz              100000                   0                1Stk      4.99
+         4          Schokolade              401000          31.03.2019                200g      3.99
+____________________________________________________________________________________________________________________
+                                                                             Summe:55.88            
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ -
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer : 300000
+
+
+geben Sie bitte MHD : 0
+
+
+geben Sie bitte die Anzahl: 2
+ Enthält die Rechnung  keinen Artikel dieser Art
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ -
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer : 100000
+
+
+geben Sie bitte MHD : 0
+
+
+geben Sie bitte die Anzahl: 8
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ s
+____________________________________________________________________________________________________________________
+
+                                Der aktuelle Rechnungsstand : RECHNUNG  n° 1                                                          
+____________________________________________________________________________________________________________________
+
+                                           2020-12-20  13:19:09
+____________________________________________________________________________________________________________________
+    Anzahl         Bezeichnung                 ANR                 MHD                 VPE    Price
+         4          Schokolade              401000          31.03.2019                200g      3.99
+____________________________________________________________________________________________________________________
+                                                                             Summe:15.96            
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ -
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer : 100000
+
+
+geben Sie bitte MHD : 0
+
+
+geben Sie bitte die Anzahl: 1
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ s
+____________________________________________________________________________________________________________________
+
+                                Der aktuelle Rechnungsstand : RECHNUNG  n° 1                                                          
+____________________________________________________________________________________________________________________
+
+                                           2020-12-20  13:19:19
+____________________________________________________________________________________________________________________
+    Anzahl         Bezeichnung                 ANR                 MHD                 VPE    Price
+         4          Schokolade              401000          31.03.2019                200g      3.99
+____________________________________________________________________________________________________________________
+                                                                             Summe:15.96            
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ f
+____________________________________________________________________________________________________________________
+
+                                                 RECHNUNG  n° 1                                                          
+____________________________________________________________________________________________________________________
+
+                                           2020-12-20  13:19:32
+____________________________________________________________________________________________________________________
+    Anzahl         Bezeichnung                 ANR                 MHD                 VPE    Price
+         4          Schokolade              401000          31.03.2019                200g      3.99
+____________________________________________________________________________________________________________________
+                                                                             Summe:15.96            
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ +
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer : 400000
+
+
+geben Sie bitte MHD : 01.04.2019
+
+
+geben Sie bitte die Anzahl: 2
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ +
+
+
+(s) Der aktuelle Rechnungsstand ausgeben 
+(f) Die Rechnung abschließen und ausgeben
+ 
+geben Sie bitte die Artikelnummer : 202000
+
+
+geben Sie bitte MHD : 23.12.2018
+
+
+geben Sie bitte die Anzahl: 4
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ f
+____________________________________________________________________________________________________________________
+
+                                                 RECHNUNG  n° 2                                                          
+____________________________________________________________________________________________________________________
+
+                                           2020-12-20  13:20:52
+____________________________________________________________________________________________________________________
+    Anzahl         Bezeichnung                 ANR                 MHD                 VPE    Price
+         2            Espresso              400000          01.04.2019                500g     13.99
+         4        H-Milch 3.5%              202000          23.12.2018                  1l      0.99
+____________________________________________________________________________________________________________________
+                                                                             Summe:31.94            
+
+
+ (+) eine Ware hinzufuegen 
+ (-) eine Ware  entfernen 
+ (s) Der aktuelle Rechnungsstand ausgeben 
+ (f) Die Rechnung abschließen und ausgeben
+ 
